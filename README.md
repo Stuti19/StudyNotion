@@ -1,6 +1,10 @@
-
+<img width="1792" alt="Screenshot 2024-07-11 at 11 35 57 PM" src="https://github.com/Stuti19/StudyNotion/assets/63838650/8abb23fa-33c8-4c24-9f36-5be420aa1074">
 # StudyNotion - EdTech Platform
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+
+
+
+https://github.com/Stuti19/StudyNotion/assets/63838650/0480a1a2-9e65-425f-a854-b5d4be50044b
 
 
 ![Main Page](images/mainpage.png)
